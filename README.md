@@ -21,8 +21,10 @@ Ejemplos:
 Entrada:
 Ingrese la cantidad de datos que se van a agregar en la secuencia: 
 8
+
 Ingrese la secuencia de datos (Separados por espacios): 
 A B C D E F G H
+
 Ingrese el valor de T: 
 3
 
@@ -33,8 +35,10 @@ C D A B H E F G
 Entrada:
 Ingrese la cantidad de datos que se van a agregar en la secuencia: 
 8
+
 Ingrese la secuencia de datos (Separados por espacios): 
 df 23 45 34 33 h 5 2
+
 Ingrese el valor de T: 
 4
 
