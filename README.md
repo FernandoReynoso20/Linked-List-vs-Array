@@ -19,6 +19,7 @@ Ingrese el valor de T:
 
 Siguiendo estos pasos, el programa ejecutara de manera efectiva el ordenamiento y proceso deseado.
 
+
 Ejemplos:
 
 Entrada:
