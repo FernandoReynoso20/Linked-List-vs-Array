@@ -86,3 +86,68 @@ Estudiante [matricula: 8478, nombre: Estudiante 4, indiceAcademico: 3.1171922622
 Estudiante [matricula: 9426, nombre: Estudiante 2, indiceAcademico: 2.9205554007309686]
 
 Estudiante [matricula: 8060, nombre: Estudiante 3, indiceAcademico: 1.0108619864760855]
+
+
+Ejecuciones del programa:
+
+Ingrese la cantidad de estudiantes: 
+5
+
+Estudiantes sin ordenar:
+Estudiante [matricula: 6976, nombre: Estudiante 1, indiceAcademico: 1.8625663579262761]
+
+Estudiante [matricula: 23, nombre: Estudiante 2, indiceAcademico: 3.4859451594092468]
+
+Estudiante [matricula: 952, nombre: Estudiante 3, indiceAcademico: 3.374327846772533]
+
+Estudiante [matricula: 8101, nombre: Estudiante 4, indiceAcademico: 2.9160700171956844]
+
+Estudiante [matricula: 5822, nombre: Estudiante 5, indiceAcademico: 2.8465155662809987]
+
+Ingrese 1 para ordenar ascendente o 0 para descendente:
+0
+
+Estudiantes ordenados:
+Estudiante [matricula: 6976, nombre: Estudiante 1, indiceAcademico: 1.8625663579262761]
+
+Estudiante [matricula: 5822, nombre: Estudiante 5, indiceAcademico: 2.8465155662809987]
+
+Estudiante [matricula: 8101, nombre: Estudiante 4, indiceAcademico: 2.9160700171956844]
+
+Estudiante [matricula: 952, nombre: Estudiante 3, indiceAcademico: 3.374327846772533]
+
+Estudiante [matricula: 23, nombre: Estudiante 2, indiceAcademico: 3.4859451594092468]
+
+-------------------------------------------------------------------------------------------
+
+Ingrese la cantidad de estudiantes: 
+6
+
+Estudiantes sin ordenar:
+Estudiante [matricula: 7727, nombre: Estudiante 1, indiceAcademico: 2.8047291163768024]
+
+Estudiante [matricula: 9287, nombre: Estudiante 2, indiceAcademico: 1.7215669458888176]
+
+Estudiante [matricula: 4146, nombre: Estudiante 3, indiceAcademico: 1.1979815489913979]
+
+Estudiante [matricula: 1737, nombre: Estudiante 4, indiceAcademico: 2.761488443181711]
+
+Estudiante [matricula: 5961, nombre: Estudiante 5, indiceAcademico: 2.1458697580701074]
+
+Estudiante [matricula: 6796, nombre: Estudiante 6, indiceAcademico: 1.0368287493931927]
+
+Ingrese 1 para ordenar ascendente o 0 para descendente:
+1
+
+Estudiantes ordenados:
+Estudiante [matricula: 7727, nombre: Estudiante 1, indiceAcademico: 2.8047291163768024]
+
+Estudiante [matricula: 1737, nombre: Estudiante 4, indiceAcademico: 2.761488443181711]
+
+Estudiante [matricula: 5961, nombre: Estudiante 5, indiceAcademico: 2.1458697580701074]
+
+Estudiante [matricula: 9287, nombre: Estudiante 2, indiceAcademico: 1.7215669458888176]
+
+Estudiante [matricula: 4146, nombre: Estudiante 3, indiceAcademico: 1.1979815489913979]
+
+Estudiante [matricula: 6796, nombre: Estudiante 6, indiceAcademico: 1.0368287493931927]
