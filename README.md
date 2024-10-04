@@ -65,8 +65,11 @@ Ingrese la cantidad de estudiantes:
 Estudiantes sin ordenar:
 
 Estudiante [matricula: 2220, nombre: Estudiante 1, indiceAcademico: 3.5037717446973042]
+
 Estudiante [matricula: 9426, nombre: Estudiante 2, indiceAcademico: 2.9205554007309686]
+
 Estudiante [matricula: 8060, nombre: Estudiante 3, indiceAcademico: 1.0108619864760855]
+
 Estudiante [matricula: 8478, nombre: Estudiante 4, indiceAcademico: 3.1171922622996724]
 
 Luego el programa pide que el usuario ponga 1 para ascendente o 0 para descendente:
@@ -77,6 +80,9 @@ Ingrese 1 para ordenar ascendente o 0 para descendente:
 Seguido de esto, el programa procede y ordena los estudiantes segun lo que se haya introducido anteriormente:
 
 Estudiante [matricula: 2220, nombre: Estudiante 1, indiceAcademico: 3.5037717446973042]
+
 Estudiante [matricula: 8478, nombre: Estudiante 4, indiceAcademico: 3.1171922622996724]
+
 Estudiante [matricula: 9426, nombre: Estudiante 2, indiceAcademico: 2.9205554007309686]
+
 Estudiante [matricula: 8060, nombre: Estudiante 3, indiceAcademico: 1.0108619864760855]
