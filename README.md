@@ -86,7 +86,7 @@ Estudiante [matricula: 8478, nombre: Estudiante 4, indiceAcademico: 3.1171922622
 Estudiante [matricula: 9426, nombre: Estudiante 2, indiceAcademico: 2.9205554007309686]
 
 Estudiante [matricula: 8060, nombre: Estudiante 3, indiceAcademico: 1.0108619864760855]
-
+-----------------------------------------------------------------------------------------------------------
 
 Ejecuciones del programa:
 
