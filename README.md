@@ -55,8 +55,28 @@ El rendimiento del programa depende linealmente de dos factores: el número de e
 
 Ejercicio #2
 
-Este programa permite generar una lista de estudiantes con valores aleatorios para matrícula e índice académico. Luego, utiliza el algoritmo de ordenamiento burbuja para ordenar la lista en función del índice académico en orden ascendente o descendente, según lo indicado por el usuario.
+Este programa permite generar una lista de estudiantes con valores aleatorios para matrícula e índice académico. Luego, utiliza el algoritmo de ordenamiento burbuja para ordenar la lista en función del índice académico en orden ascendente o descendente, según lo indicado por el usuario. El programa solicita la cantidad de estudiantes a generar, depueés genera los datos aleatoriamente (matrícula e índice académico), y después pregunta al usuario si desea ordenar los estudiantes de forma ascendente o descendente según el índice académico.
 
-El programa solicita la cantidad de estudiantes a generar, depueés genera los datos aleatoriamente (nombre, matrícula e índice académico), y después pregunta al usuario si desea ordenar los estudiantes de forma ascendente o descendente según el índice académico.
+Para empezar, el programa pide al usuario que digite la cantidad de estudiantes y seguido genera matriculas e indices aleatorios:
 
+Ingrese la cantidad de estudiantes: 
+4
 
+Estudiantes sin ordenar:
+
+Estudiante [matricula: 2220, nombre: Estudiante 1, indiceAcademico: 3.5037717446973042]
+Estudiante [matricula: 9426, nombre: Estudiante 2, indiceAcademico: 2.9205554007309686]
+Estudiante [matricula: 8060, nombre: Estudiante 3, indiceAcademico: 1.0108619864760855]
+Estudiante [matricula: 8478, nombre: Estudiante 4, indiceAcademico: 3.1171922622996724]
+
+Luego el programa pide que el usuario ponga 1 para ascendente o 0 para descendente:
+
+Ingrese 1 para ordenar ascendente o 0 para descendente:
+1
+
+Seguido de esto, el programa procede y ordena los estudiantes segun lo que se haya introducido anteriormente:
+
+Estudiante [matricula: 2220, nombre: Estudiante 1, indiceAcademico: 3.5037717446973042]
+Estudiante [matricula: 8478, nombre: Estudiante 4, indiceAcademico: 3.1171922622996724]
+Estudiante [matricula: 9426, nombre: Estudiante 2, indiceAcademico: 2.9205554007309686]
+Estudiante [matricula: 8060, nombre: Estudiante 3, indiceAcademico: 1.0108619864760855]
