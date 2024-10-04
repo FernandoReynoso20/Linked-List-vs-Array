@@ -152,3 +152,5 @@ Estudiante [matricula: 9287, nombre: Estudiante 2, indiceAcademico: 1.7215669458
 Estudiante [matricula: 4146, nombre: Estudiante 3, indiceAcademico: 1.1979815489913979]
 
 Estudiante [matricula: 6796, nombre: Estudiante 6, indiceAcademico: 1.0368287493931927]
+
+El programa ordena una lista de estudiantes utilizando el algoritmo de burbuja, cuya complejidad es O(n²), donde n es el número de estudiantes. En este caso, con 3 estudiantes, el rendimiento es prácticamente instantáneo, ya que el número de comparaciones e intercambios es muy bajo.
